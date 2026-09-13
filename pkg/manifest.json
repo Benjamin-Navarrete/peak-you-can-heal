@@ -1,7 +1,7 @@
 {
   "name": "YouCanHeal",
-  "version_number": "1.0.1",
-  "website_url": "https://github.com/Benjamin-Navarrete/peak-you-can-heal",
+  "version_number": "1.0.2",
+  "website_url": "",
   "description": "Injury slowly heals on its own (1% per minute, in 2.5% steps). Bandages and med kits still matter.",
   "dependencies": [
     "BepInEx-BepInExPack_PEAK-5.4.75301"
