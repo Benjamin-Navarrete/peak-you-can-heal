@@ -2,7 +2,7 @@
   "name": "YouCanHeal",
   "version_number": "1.0.0",
   "website_url": "https://github.com/Benjamin-Navarrete/peak-you-can-heal",
-  "description": "Injury slowly heals on its own (1% per minute by default). Bandages and med kits still matter. Configurable.",
+  "description": "Injury slowly heals on its own: 1% per minute. The bar only moves in 2.5% steps, so expect the first drop after 2.5 min. Bandages and med kits still matter.",
   "dependencies": [
     "BepInEx-BepInExPack_PEAK-5.4.75301"
   ]
