@@ -17,7 +17,7 @@ namespace YouCanHeal
 {
     // El GUID "dralfredo.YouCanHeal" es el identificador único del mod.
     // Con él se nombra el archivo de config y se registra el parche de Harmony.
-    [BepInPlugin("dralfredo.YouCanHeal", "You Can Heal (dr. alfredo)", "1.0.1")]
+    [BepInPlugin("dralfredo.YouCanHeal", "You Can Heal (dr. alfredo)", "1.0.3")]
     public class Plugin : BaseUnityPlugin
     {
         // ----- Opciones de configuración (se leen del .cfg) -----
